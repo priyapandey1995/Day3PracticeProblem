@@ -1,6 +1,6 @@
 package Day03PracticeProblem;
 
-public class ElementsAtOddPoistion {
+public class ElementsInReverseOrder {
 
 	public static void main(String[] args) {
 		int arr[] = new int[] {1,2,3,4,5};
